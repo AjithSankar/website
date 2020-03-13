@@ -1,0 +1,6 @@
+No active profile set, falling back to default profiles: default
+2020-03-12 13:50:58.701  INFO 6392 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : 
+Tomcat initialized with port(s): 8080 (http)
+2020-03-12 13:50:58.703  INFO 6392 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-12 13:50:58.704  INFO 6392 --- [restartedMain] org.apache.catalina.core.StandardEngine  : 
+Starting Servlet engine: [Apache Tomcat/9.0.29]
